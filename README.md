@@ -1,5 +1,5 @@
-# Thermal Infrared Image Colorization Based on Pre-trained Stable
-Diffusion and Its Shadow Network with Attention Mechanism
+# Thermal Infrared Image Colorization Based on Pre-trained Stable Diffusion and Its Shadow Network with Attention Mechanism
+
 
 文章标题：**Thermal Infrared Image Colorization Based on Pre-trained Stable
 Diffusion and Its Shadow Network with Attention Mechanism**  
